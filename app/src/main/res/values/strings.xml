@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrenyConverter</string>
+    <string name="string_fetch">Fetching Data ...</string>
+</resources>
